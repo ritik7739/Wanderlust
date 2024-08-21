@@ -1,5 +1,5 @@
 {"engines":
-{"node":"18.17.1"},
+{"node":">=18"},
 "name":"major-project",
 "version":"1.0.0",
 "description":"",
